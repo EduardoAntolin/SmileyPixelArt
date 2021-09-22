@@ -1,4 +1,4 @@
-Proyecto-pixelart
-Germán Adrián Anguiano Pérez
-179176
-Realidad virtual 1
+Pixel art proyect
+Eduardo Antolin
+179282
+
